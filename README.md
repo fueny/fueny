@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://fueny.top">Blog</a> •
-  <a href="https://twitter.com/fueny">Twitter</a> •
-  <a href="https://linkedin.com/in/fueny">LinkedIn</a>
+  <a href="https://twitter.com">Twitter</a> •
+  <a href="https://linkedin.com/in/">LinkedIn</a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fueny&color=brightgreen)
