@@ -110,13 +110,3 @@ Creating tools and exploring new technologies is what drives me.
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-## 👾 Virtual Characters
-
-<div align="center">
-
-  /\___/\  
- (  o o  )
- (  =^=  ) 
-  (m   m)
-</div>
