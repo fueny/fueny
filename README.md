@@ -1,24 +1,24 @@
 <div align="center">
   
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Fueny 👋
 
 ### Independent Developer | Knowledge Explorer | Tech Enthusiast
 
 <p align="center">
-  <a href="[your blog url]">Blog</a> •
-  <a href="[your twitter url]">Twitter</a> •
-  <a href="[your linkedin url]">LinkedIn</a>
+  <a href="https://github.com/fueny">Blog</a> •
+  <a href="https://twitter.com/fueny">Twitter</a> •
+  <a href="https://linkedin.com/in/fueny">LinkedIn</a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=fueny&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/fueny?label=Follow&style=social)](https://github.com/fueny)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate independent developer focused on [your main tech areas]. 
-Sharing knowledge and building interesting projects is what drives me.
+I'm a passionate independent developer focused on sharing knowledge and building interesting projects.
+Creating tools and exploring new technologies is what drives me.
 
 ## 🛠️ Tech Stack
 
@@ -31,11 +31,11 @@ Sharing knowledge and building interesting projects is what drives me.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fueny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fueny&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🎯 Featured Projects
@@ -43,13 +43,13 @@ Sharing knowledge and building interesting projects is what drives me.
 <table>
   <tr>
     <td align="center">
-      <a href="project-repo-url">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=tokyonight" />
+      <a href="https://github.com/fueny/project1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fueny&repo=project1&theme=tokyonight" />
       </a>
     </td>
     <td align="center">
-      <a href="project-repo-url">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=tokyonight" />
+      <a href="https://github.com/fueny/project2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fueny&repo=project2&theme=tokyonight" />
       </a>
     </td>
   </tr>
@@ -65,9 +65,9 @@ Sharing knowledge and building interesting projects is what drives me.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="your-twitter-url"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fueny@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/fueny"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/fueny"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
