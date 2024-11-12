@@ -5,7 +5,7 @@
 ### Independent Developer | Knowledge Explorer | Tech Enthusiast
 
 <p align="center">
-  <a href="https://github.com/fueny">Blog</a> •
+  <a href="https://fueny.top">Blog</a> •
   <a href="https://twitter.com/fueny">Twitter</a> •
   <a href="https://linkedin.com/in/fueny">LinkedIn</a>
 </p>
