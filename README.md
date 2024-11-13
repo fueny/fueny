@@ -16,9 +16,7 @@
 </div>
 
 ## 🚀 About Me
-
-I'm a passionate independent developer focused on sharing knowledge and building interesting projects.
-Creating tools and exploring new technologies is what drives me.
+学生，处于学习阶段，现阶段以博客为主，欢迎访问我的博客
 
 ## 🛠️ Tech Stack
 
