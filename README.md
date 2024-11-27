@@ -90,7 +90,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](post-url)
+- [人生浪花-总第1期-2024年第46周（最小二乘法）](https://www.fueny.top/%E4%B8%83%E6%97%A5%E7%B5%AE%E8%AF%AD/13cb6577-78ca-80b8-a23f-f3470277c80f)
 - [Blog Post Title 2](post-url)
 - [Blog Post Title 3](post-url)
 <!-- BLOG-POST-LIST:END -->
